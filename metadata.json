@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Safety Sandbox",
+  "description": "Premium developer evaluation playground for Gemini parameters, custom system prompts, and full safety threshold configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
